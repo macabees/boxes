@@ -1,5 +1,5 @@
 # Boxes
-## The Boxes command draws a box around its input text. 
+The Boxes command draws a box around its input text. 
 
 ## Boxes (Project Info)
 [Website](https://boxes.thomasjensen.com/)
